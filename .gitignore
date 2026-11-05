@@ -1,0 +1,8 @@
+gallery.npz
+__pycache__/
+*.pyc
+.venv/
+.DS_Store
+.pytest_cache/
+*.jpg
+*.png
